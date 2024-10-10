@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Santos 👋🏽
 
-💬 Tenho 30 anos, moro em Curitiba-PR.<br/>
+💬 Curitiba-PR.<br/>
 📚 Bacharel em Sistemas de Informação.<br/>
 🤓 Cursando Pós-Graduação em Fullstack Development.<br/>
 🛠️ Software Engineer no iFood.<br/>
